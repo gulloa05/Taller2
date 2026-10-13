@@ -1,4 +1,4 @@
-# Modificación realizada en la rama gino-viz
+# Actualizacion del tablero para GitHub
 
 import dash
 from dash import dcc
