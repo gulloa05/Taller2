@@ -1,3 +1,5 @@
+# Modificación realizada en la rama gino-viz
+
 import dash
 from dash import dcc
 from dash import html
@@ -6,8 +8,6 @@ import plotly.graph_objs as go
 import numpy as np
 import pandas as pd
 import datetime as dt
-
-
 
 app = dash.Dash(
     __name__,
